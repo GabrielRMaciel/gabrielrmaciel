@@ -1,10 +1,8 @@
 ## Olá, eu sou o Gabriel R Maciel! 👋🏻
 
-<p align="left"> 
-  Sou um entusiasta da tecnologia, graduando em <strong>Engenharia de Controle e Automação</strong> e <strong>CPO & Co-Fundador da Inova.Js</strong>.
+<p align="justify"> 
+    Sou um entusiasta da tecnologia, graduando em <strong>Engenharia de Controle e Automação</strong> e <strong>CPO & Co-Fundador da Inova.Js</strong>. Minha grande paixão é transformar ideias complexas em soluções digitais que sejam elegantes e eficientes. Adoro estar na intersecção entre <strong>tecnologia, design e estratégia</strong>, construindo pontes entre o mundo digital e as necessidades humanas.
 </p>
-
-Minha grande paixão é transformar ideias complexas em soluções digitais que sejam elegantes e eficientes. Adoro estar na intersecção entre **tecnologia, design e estratégia**, construindo pontes entre o mundo digital e as necessidades humanas.
 
 <p align="left">
   <a href="https://www.instagram.com/gabrielrm.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
